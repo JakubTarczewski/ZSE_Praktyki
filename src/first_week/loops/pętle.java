@@ -139,7 +139,7 @@ public class pętle {
             case 'B':
                 System.out.println("Przypadek B");
             default:
-                System.out.println("Przypadek pierwszy"
+                System.out.println("Przypadek pierwszy");
         }
     }
 }
