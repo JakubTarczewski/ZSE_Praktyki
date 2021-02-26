@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Zadanka">
+  <component name="RunManager" selected="Application.pętle">
     <configuration name="Zadanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basic.zadania.Zadanka" />
       <module name="ZSE_Praktyki" />
@@ -53,10 +53,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pętle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.loops.pętle" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanka" />
+        <item itemvalue="Application.pętle" />
         <item itemvalue="Application.lekcja_basic" />
+        <item itemvalue="Application.Zadanka" />
       </list>
     </recent_temporary>
   </component>
