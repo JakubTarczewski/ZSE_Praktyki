@@ -6,15 +6,100 @@ public class Zadania_Pętle {
     public static void main(String[] args) {
 
         // Zadanie 1
-        Scanner skaner = new Scanner(System.in);
-        System.out.println("Podaj liczbę: ");
-        int x = skaner.nextInt();
+//        Scanner zad1 = new Scanner(System.in);
+//        System.out.println("Podaj liczbę: ");
+//        int x = zad1.nextInt();
+//
+//        if (x > 0){
+//            System.out.println("Twoja liczba jest większa od 0");
+//        }
+//        else {
+//            System.out.println("Twoja liczba jest mniejsza od 0");
+//        }
 
-        if (x > 0){
-            System.out.println("Twoja liczba jest większa od 0");
+//        //Zadanie 2
+//        Scanner zad2 = new Scanner(System.in);
+//        System.out.println("Podaj pierwszą liczbę: ");
+//        int a = zad2.nextInt();
+//        System.out.println("Podaj drugą liczbę: ");
+//        int b = zad2.nextInt();
+//        System.out.println("Podaj trzecią liczbę: ");
+//        int c = zad2.nextInt();
+//        if (a > b) {
+//            if (a > c) {
+//                System.out.println("Największa liczba to: " + a);
+//            }
+//        }
+//        if (a < b){
+//            if (c < b){
+//                System.out.println("Największa liczba to: " + b);
+//            }
+//        }
+//        if (a > b){
+//            if (a < c){
+//                System.out.println("Największa liczba to: " + c);
+//            }
+//        }
+
+        //Zadanie 3
+//            Scanner zad3 = new Scanner(System.in);
+//            System.out.println("Podaj login: ");
+//            String login = zad3.next();
+//            System.out.println("Podaj hasło: ");
+//            String hasło = zad3.next();
+//
+//            if (login.equals("admin")){
+//                if (hasło.equals("tajnehaslo")){
+//                System.out.println("Zalogowano pomyślnie :D");
+//                }
+//                else{
+//                System.out.println("Niezautoryzowany użytkownik ");
+//            }
+//            }
+//            else{
+//                System.out.println("Niezautoryzowany użytkownik ");
+//            }
+
+            //Zadanie 4
+//        Scanner zad4 = new Scanner(System.in);
+//        System.out.println("Podaj pierwszą liczbę: ");
+//        int a = zad4.nextInt();
+//        System.out.println("Podaj drugą liczbę: ");
+//        int b = zad4.nextInt();
+//        System.out.println("Podaj trzecią liczbę: ");
+//        int c = zad4.nextInt();
+//        if (a > b) {
+//            if (b > c) {
+//                System.out.println("Kolejność malejąca");
+//            }
+//        }
+//        if (a < b){
+//            if (b < c){
+//                System.out.println("Kolejność rosnąca");
+//            }
+//        }
+//        if (a > b){
+//            if (b < c){
+//                System.out.println("Brak kolejności");
+//            }
+//        }
+//        else {
+//            System.out.println("Brak kolejności");
+//        }
+
+        // Zadanie 5
+        Scanner zad5 = new Scanner(System.in);
+        System.out.println("Podaj liczbę nr.1: ");
+        float A = zad5.nextFloat();
+        System.out.println("Podaj liczbę nr.2: ");
+        float B = zad5.nextFloat();
+        System.out.println("Jakie działanie chcesz wykonać? (+ ,- ,* ,/");
+        char wybór = zad5.next().charAt(0);
+        if (wybór == '+'){
+            float sum = A + B;
+            System.out.println("Wynik dodawanie to: " + sum);
         }
-        else {
-            System.out.println("Twoja liczba jest mniejsza od 0");
-        }
+
+
     }
 }
