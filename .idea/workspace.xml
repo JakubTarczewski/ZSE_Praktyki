@@ -31,7 +31,7 @@
       <recent name="second_week.tabele" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie_Tabele">
+  <component name="RunManager" selected="Application.Zadanie_Loops">
     <configuration name="Druga_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.loops.Druga_lekcja" />
       <module name="ZSE_Praktyki" />
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie_Tabele" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.tabele.Zadanie_Tabele" />
+    <configuration name="Zadanie_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.zadanie.Zadanie_Loops" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.tabele.*" />
+          <option name="PATTERN" value="second_week.loops.zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja_basic" />
+    <configuration name="Zadanie_Tabele" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.tabele.Zadanie_Tabele" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basic.*" />
+          <option name="PATTERN" value="second_week.tabele.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie_Loops" />
         <item itemvalue="Application.Zadanie_Tabele" />
         <item itemvalue="Application.Druga_lekcja" />
         <item itemvalue="Application.Zadania_Pętle" />
         <item itemvalue="Application.pętle" />
-        <item itemvalue="Application.lekcja_basic" />
       </list>
     </recent_temporary>
   </component>
