@@ -32,7 +32,7 @@
       <recent name="second_week.tabele" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Piec">
+  <component name="RunManager" selected="Application.Zadanie_Tabele2">
     <configuration name="Objektyiinne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.MethodsAndObject.Objektyiinne" />
       <module name="ZSE_Praktyki" />
@@ -100,10 +100,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie_Tabele2" />
         <item itemvalue="Application.Piec" />
         <item itemvalue="Application.PralkoSuszarka" />
         <item itemvalue="Application.Objektyiinne" />
-        <item itemvalue="Application.Zadanie_Tabele2" />
         <item itemvalue="Application.Zadanie_Loops" />
       </list>
     </recent_temporary>
