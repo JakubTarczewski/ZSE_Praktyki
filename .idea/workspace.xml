@@ -32,20 +32,7 @@
       <recent name="second_week.tabele" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie_Tabele2">
-    <configuration name="Objektyiinne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.MethodsAndObject.Objektyiinne" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.MethodsAndObject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Projekt_Pokoje">
     <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.MethodsAndObject.Piec" />
       <module name="ZSE_Praktyki" />
@@ -72,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.zadanie.Zadanie_Loops" />
+    <configuration name="Projekt_Pokoje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projekt.Projekt_Pokoje" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.zadanie.*" />
+          <option name="PATTERN" value="Projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,13 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="spotkanie9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spotkanie9" />
+      <module name="ZSE_Praktyki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Projekt_Pokoje" />
+        <item itemvalue="Application.spotkanie9" />
         <item itemvalue="Application.Zadanie_Tabele2" />
         <item itemvalue="Application.Piec" />
         <item itemvalue="Application.PralkoSuszarka" />
-        <item itemvalue="Application.Objektyiinne" />
-        <item itemvalue="Application.Zadanie_Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +123,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$USER_HOME$/.jdks/openjdk-15.0.2/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/second_week/tabele/Zadanie_Tabele2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
